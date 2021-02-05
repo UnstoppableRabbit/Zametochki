@@ -1,0 +1,103 @@
+﻿<Window x:Class="Sp1sok_del.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sp1sok_del"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Заметки" Height="450" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <!--<StackPanel>
+        <TextBlock x:Name="titleTextBlock" Text="{Binding Source={StaticResource delo1}, Path=id}"
+                        Foreground="Black"/>
+        <TextBlock Text="дело:" Foreground="Black" Grid.Row="1"/>
+        <TextBlock x:Name="priceTextBlock" Text="{Binding Source={StaticResource delo1}, Path=delo}"
+                        Foreground="Black"/>
+        <TextBox Text="{Binding RelativeSource={RelativeSource Mode=Self}, Path=Background, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+
+    </StackPanel>-->
+
+    <TabControl x:FieldModifier="public" x:Name="myTabContrl">
+        <TabItem TabIndex="0">
+            <Grid Background="#FFECB3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Grid Background="#FFFDE7" Grid.Column="1">
+                    <Border BorderBrush="Black" BorderThickness="0,1,1,1">
+                        <StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock FontSize="18" Margin="20,0" FontWeight="Bold" x:Name="titleTblock"></TextBlock>
+                                <TextBlock FontSize="16" Margin="2" x:Name="dateTblock" Foreground="Gray"></TextBlock>
+                            </StackPanel>
+                            <ScrollViewer Height="375">
+                                <TextBox KeyDown="abc_KeyDown" Margin="10,0,0,0" IsReadOnly="True"  BorderBrush="{x:Null}" x:Name="abc" FontSize="20" TextWrapping="Wrap" Text="Выберите заметку."/>
+                            </ScrollViewer>
+                        </StackPanel>
+                    </Border>
+                    <StackPanel Grid.Column="1" HorizontalAlignment="Right" Orientation="Horizontal">
+                        <Button Visibility="Hidden" x:Name="saveButton" Click="Save_Click" Margin="5,5" VerticalAlignment="Bottom">
+                            <materialDesign:PackIcon VerticalAlignment="Center" HorizontalAlignment="Center" Kind="ContentSave" Foreground="White" Height="24" Width="24"/>
+                        </Button>
+                        <Button Visibility="Hidden" x:Name="deleteButton" Click="Delete_Click" Margin="5,5" VerticalAlignment="Bottom">
+                            <materialDesign:PackIcon VerticalAlignment="Center" HorizontalAlignment="Center" Kind="Delete" Foreground="White" Height="24" Width="24"/>
+                        </Button>
+                    </StackPanel>
+                </Grid>
+
+                <Border BorderBrush="Black" BorderThickness="1,1,1,1">
+                    <ScrollViewer>
+                        <StackPanel>
+                            <TextBlock FontSize="24" FontWeight="Bold" FontFamily="Courier New"  HorizontalAlignment="Center" >Заметки:</TextBlock>
+                            <!--<StackPanel Orientation="Horizontal">
+                        <TextBox x:Name="searchTBox" Width="126" FontSize="16" Background="White"></TextBox>
+                        <Button Height="28">
+                            <materialDesign:PackIcon Kind="Search" Foreground="White" Width="20" Height="20"/>
+                        </Button>
+                    </StackPanel>-->
+                            <ListBox Grid.Column="0" x:Name="qwe" PreviewMouseLeftButtonUp="Item_Click" FontSize="24" Cursor="Hand">
+                            </ListBox>
+                            <Button Click="Add_Click" Margin="5,10" Height="100">
+                                <materialDesign:PackIcon Kind="Plus" Foreground="White" Width="70" Height="70"/>
+                            </Button>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Border>
+            </Grid>
+        </TabItem>
+
+        <TabItem TabIndex="1">
+            <Grid Background="#FFFDE7">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Margin="10" FontFamily="Courier New" FontSize="24" HorizontalAlignment="Center" FontWeight="Bold">Название заметки:</TextBlock>
+                <TextBox x:Name="AddNameTBox" Style="{x:Null}" VerticalAlignment="Top" MaxLength="30" FontSize="18" HorizontalContentAlignment="Center" Margin="30,45" ></TextBox>
+                <TextBlock Height="30" VerticalAlignment="Top" Grid.Column="1" Margin="10" FontFamily="Courier New" FontSize="24" HorizontalAlignment="Center" ToolTip="Необязательное поле; если хотите чтобы вашу заметку никто не увидел - ставьте пароль" Foreground="Gray" FontWeight="Bold">Пароль:</TextBlock>
+                <TextBox x:Name="AddPassTBox" Style="{x:Null}" Grid.Column="1" VerticalAlignment="Top" MaxLength="20" FontSize="18" HorizontalContentAlignment="Center" Margin="30,45" ></TextBox>
+                <StackPanel Grid.ColumnSpan="2" Margin="0,70,0,0">
+                    <TextBlock FontFamily="Courier New" Margin="0,40,0,10" FontSize="24" HorizontalAlignment="Center" FontWeight="Bold" Grid.Column="1">Описание:</TextBlock>
+                    <Border Margin="10,5" BorderBrush="Black" BorderThickness="1,1,1,1">
+                        <TextBox KeyDown="mainTbox_KeyDown" x:Name="mainTbox" Style="{x:Null}" FontSize="14" HorizontalContentAlignment="Center" TextWrapping="Wrap" Background="White"
+                           Height="210"></TextBox>
+                    </Border>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <Button Margin="10,0,580,0" Click="Back_Click">
+                            <materialDesign:PackIcon VerticalAlignment="Center" HorizontalAlignment="Center" Kind="ArrowLeftBoldBox" Foreground="White" Height="24" Width="24"/>
+                        </Button>
+                        <Button x:Name="saveButton1" VerticalAlignment="Bottom" Click="Send_Click">
+                            <materialDesign:PackIcon VerticalAlignment="Center" HorizontalAlignment="Center" Kind="ContentSave" Foreground="White" Height="24" Width="24"/>
+                        </Button>
+                        <Button x:Name="deleteButton1" Margin="10,0" VerticalAlignment="Bottom" Click="deleteButton1_Click">
+                            <materialDesign:PackIcon VerticalAlignment="Center" HorizontalAlignment="Center" Kind="Delete" Foreground="White" Height="24" Width="24"/>
+                        </Button>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </TabItem>
+    </TabControl>
+</Window>

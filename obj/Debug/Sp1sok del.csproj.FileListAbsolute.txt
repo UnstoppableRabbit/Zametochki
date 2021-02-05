@@ -1,0 +1,42 @@
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Sp1sok del.exe.config
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Sp1sok del.exe
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Sp1sok del.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\System.Data.SQLite.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\System.Data.SQLite.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok del_MarkupCompile.cache
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok del_MarkupCompile.lref
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok del.g.resources
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok_del.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok del.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok del.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok del.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok del.exe
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok del.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\MaterialDesignColors.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\App.baml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\vibes.db
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Prism.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Prism.Wpf.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Prism.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Prism.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Prism.Wpf.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Debug\Prism.Wpf.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\PassWindow.g.cs
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\PassWindow.baml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Debug\Sp1sok del.csprojAssemblyReference.cache

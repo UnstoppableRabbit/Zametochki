@@ -1,0 +1,42 @@
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\vibes.db
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Sp1sok del.exe.config
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Sp1sok del.exe
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Sp1sok del.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\EntityFramework.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\MaterialDesignColors.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Prism.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Prism.Wpf.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\System.Data.SQLite.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\EntityFramework.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\MaterialDesignColors.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Prism.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Prism.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Prism.Wpf.pdb
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\Prism.Wpf.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\bin\Release\System.Data.SQLite.xml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok del.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\MainWindow.g.cs
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\PassWindow.g.cs
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\App.g.cs
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok del_MarkupCompile.cache
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok del_MarkupCompile.lref
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\App.baml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\MainWindow.baml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\PassWindow.baml
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok del.g.resources
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok_del.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok del.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok del.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok del.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok del.exe
+C:\Users\ASUS\source\repos\Sp1sok del\Sp1sok del\obj\Release\Sp1sok del.pdb
